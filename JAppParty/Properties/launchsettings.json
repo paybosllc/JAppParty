@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "JAppParty (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "JAppParty (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
